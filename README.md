@@ -1,4 +1,4 @@
 ScoreGraph
 ==========
 
-Keep track of the scores of the players at a game by turns
+Keep track of the scores of players playing the Cabo card game
